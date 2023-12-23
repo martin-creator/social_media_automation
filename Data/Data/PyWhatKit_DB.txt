@@ -1,0 +1,45 @@
+Date: 23/12/2023
+Time: 22:34
+Phone Number: +256783370759
+Message: Hi, I am texting for testing.
+--------------------
+Date: 23/12/2023
+Time: 22:38
+Phone Number: +256783370759
+Message: This is another message for testing
+--------------------
+Date: 23/12/2023
+Time: 22:39
+Phone Number: +256783370759
+Image: post.jpg
+Caption: 
+--------------------
+Date: 23/12/2023
+Time: 22:40
+Phone Number: +250 783 784 394
+Image: post.jpg
+Caption: 
+--------------------
+Date: 23/12/2023
+Time: 22:46
+Phone Number: +250783784394
+Image: post.jpg
+Caption: 
+--------------------
+Date: 23/12/2023
+Time: 22:47
+Phone Number: +250783784394
+Message: Hi, I am texting for testing.
+--------------------
+Date: 23/12/2023
+Time: 22:48
+Phone Number: +250783784394
+Image: post.jpg
+Caption: 
+--------------------
+Date: 23/12/2023
+Time: 22:49
+Phone Number: +250783784394
+Image: post.jpg
+Caption: Hello, here is todays post
+--------------------
